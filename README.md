@@ -2,7 +2,7 @@
 
 Hi, I'm Diego Contreras. I have interests in VEX Robotics, web scrapping, hacking, electronics, linux, and making games. Checkout my projects if you want; They're pretty cool.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Desperationis&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Desperationis&theme=dracula&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div>
