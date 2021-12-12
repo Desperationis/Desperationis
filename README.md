@@ -8,9 +8,15 @@ Hi, I'm Diego Contreras. I have interests in VEX Robotics, web scrapping, hackin
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Desperationis&count_private=true&include_all_commits=true&theme=dracula" alt="Desperationis" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desperationis&layout=compact&theme=dracula&langs_count=10" />
-</div>
-
+  
+## Languages Known
+* C++
+* Python
+* HTML / CSS
+* C#
+* Bash
+  
+  
 ### Contact me
 
 If you have any questions email me at [smarttdiego@gmail.com](mailto:smarttdiego@gmail.com). I'll try to get back to you as soon as possible. 
